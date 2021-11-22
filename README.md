@@ -1,1 +1,1 @@
-# Sphere-Centralized-Quantization
+# Spherical Centralized Quantization
